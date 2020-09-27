@@ -1,3 +1,3 @@
-# memory-game
+# Memory Game
 
 ![Screenshot](main.png)
